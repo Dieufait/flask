@@ -1,2 +1,2 @@
 # flask
-Flask website
+Flask project for jovian careers website 
